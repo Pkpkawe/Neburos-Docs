@@ -115,7 +115,7 @@
 ### @pedro-anastacio597
 
 - **Nome:** Pedro Anastácio Nascimento Silva
-- **Cargo:** Backend Developer
+- **Cargo:** Full-Stack Developer
 - **Email:** [pedroanastacio0102@gmail.com](mailto:pedroanastacio0102@gmail.com)
 - **GitHub:** https://github.com/pedro-anastacio597
 
