@@ -142,7 +142,7 @@
 ### @Limalls
 
 - **Nome:** Fernando Teodoro Lima Dutra
-- **Cargo:** UI/UX
+- **Cargo:** UI/UX | Frontend Developer
 - **Email:** [Teodorolimadutra107@gmail.com](mailto:Teodorolimadutra107@gmail.com)
 - **GitHub:** https://github.com/Limalls
 
